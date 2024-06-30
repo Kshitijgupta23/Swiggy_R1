@@ -36,3 +36,7 @@ The program will prompt the user to input these attributes for both players. If 
 ### Expected Output
 
 The output consists of step-by-step play-by-play narration of each turn, showing the players' actions, die rolls, and the results of attacks and defenses.
+
+### Testing
+
+![image](https://github.com/Kshitijgupta23/Swiggy_R1/assets/72211910/4318fbb9-ae2d-48b5-a32e-d9d06ffd5b57)
